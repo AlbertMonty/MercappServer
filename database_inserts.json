@@ -1,0 +1,33 @@
+{"customer":{
+  "name":"Albert",
+  "email":"Albertmonty14@gmail.com",
+  "password":"1234",
+  "phone_number":"610374487"
+  },
+"business":{
+  "name":"AAA",
+  "email":"AAA@gmail.com",
+  "password":"1234",
+  "description":"this is AAA description",
+  "phone_number":"666666666",
+  "facebook_link":"www.facebook.com/AAA"
+  },
+  "business": {
+    "name": "BBB",
+    "email": "BBB@gmail.com",
+    "password": "1234",
+    "description": "this is BBB description",
+    "phone_number": "677777777",
+    "facebook_link": "www.facebook.com/BBB"
+  },
+
+    "business": {
+      "name": "CCC",
+      "email": "CCC@gmail.com",
+      "password": "1234",
+      "description": "this is CCC description",
+      "phone_number": "688888888",
+      "facebook_link": "www.facebook.com/CCC"
+    }
+  }
+
